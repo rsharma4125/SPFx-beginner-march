@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "my-first-react-app-client-side-solution",
+    "id": "e8a10825-0953-41b9-aa26-3d59d6bdd943",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "MyFirstReactApp description"
+      },
+      "longDescription": {
+        "default": "MyFirstReactApp description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "my-first-react-app Feature",
+        "description": "The feature that activates elements of the my-first-react-app solution.",
+        "id": "940f41d3-d0fa-49b9-bae1-365b23a1706d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/my-first-react-app.sppkg"
+  }
+}

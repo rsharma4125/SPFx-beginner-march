@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spx-ms-doc-client-side-solution",
+    "id": "ffd5124f-3283-4c23-b8ab-23d60e5ecf8c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spx-ms-doc description"
+      },
+      "longDescription": {
+        "default": "spx-ms-doc description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spx-ms-doc Feature",
+        "description": "The feature that activates elements of the spx-ms-doc solution.",
+        "id": "8e0b5c66-3cd0-4ccd-a082-cecafd770ff3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spx-ms-doc.sppkg"
+  }
+}

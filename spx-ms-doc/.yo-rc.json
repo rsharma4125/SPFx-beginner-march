@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "spx-ms-doc",
+    "libraryId": "ffd5124f-3283-4c23-b8ab-23d60e5ecf8c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spx-ms-doc",
+    "solutionShortDescription": "spx-ms-doc description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
